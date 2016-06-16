@@ -1,7 +1,8 @@
 # image-processing-for-beginners
-Repository for a workshop in image processing for photographers and artist using processing. 
+Repository for a workshop in image processing for photographers and artist using processing.
+All examples are based on the awesome knowledge work of Dan Shiffman.
 
-Note: 
+How to run sketches in p5.js:
 All Sketches must run in a local server
 
 INSTRUCTIONS FROM P5.js
