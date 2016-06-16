@@ -1,4 +1,6 @@
 // built based on Shiffman's https://www.youtube.com/watch?v=f0lkz2gSsIk for Processingp5.Vector
+// Note: This example works by user curveVertex(x,y) instead of the regular vertex(x,y); functionp5.Vector
+// This example uses 3d coordinates but doesn't work with the webgl parameter.
 
 
 var x = 0.01;
